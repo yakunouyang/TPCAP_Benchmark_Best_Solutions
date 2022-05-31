@@ -1,2 +1,2 @@
-# TPCAP_Benchmark_Best_Solutions
-Best solutions for TPCAP benchmark
+# TPCAP Benchmark Best Solutions
+Best solutions for Trajectory Planning Competition for Automated Parking (TPCAP) benchmark
