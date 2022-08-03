@@ -1,7 +1,7 @@
 # TPCAP Benchmark Best Solutions
 Current-best scores and their simulation processes for the 20 benchmark cases in [Trajectory Planning Competition for Automated Parking (TPCAP)](https://www.tpcap.net).
 
-Updated on August 1, 2022.
+Updated on August 2, 2022.
 
 **Case 1, currently best cost value is 1472.9134**
 
@@ -27,7 +27,7 @@ Updated on August 1, 2022.
 
 ![Case 6 animation](./gifs/Cur_best_6.gif)
 
-**Case 7, currently best cost value is 113830.1277**
+**Case 7, currently best cost value is 73661.2283**
 
 ![Case 7 animation](./gifs/Cur_best_7.gif)
 
@@ -75,7 +75,7 @@ Updated on August 1, 2022.
 
 ![Case 18 animation](./gifs/Cur_best_18.gif)
 
-**Case 19, currently best cost value is 106013.2624**
+**Case 19, currently best cost value is 5080.9639**
 
 ![Case 19 animation](./gifs/Cur_best_19.gif)
 
